@@ -1,5 +1,5 @@
 (function () {
-  // 
+  //
   const MAGIC_KEY = 'XGRlBW9FXlekgbPrRHuSiA'
   const injectedDlBtns = []
 
@@ -16,7 +16,7 @@
 
     if (classList.contains('d-context-menu__opener')) {
       onContextMenuClick(event)
-    } else if (event.target.closest('.d-context-menu__item_download')) {
+    } else if (classList.contains('_track-download')) {
       onDlButtonClick(event)
     }
   }
@@ -39,11 +39,11 @@
     proxy(function (menuBlockId, trackId) {
       const target = document.querySelector('.d-context-menu[data-b="' + menuBlockId + '"]')
       const $button = jQuery(
-        '<li class="d-context-menu__item deco-popup-menu__item d-context-menu__item_download" data-track-id="' + trackId + '">' +
-        '<span class="d-context-menu__item-icon">' +
-        '<span class="d-icon deco-icon d-icon_download"></span>' +
+        '<li class="d-context-menu__item deco-popup-menu__item d-context-menu__item_download _track-download" data-track-id="' + trackId + '">' +
+        '<span class="d-context-menu__item-icon _track-download">' +
+        '<span class="d-icon deco-icon d-icon_download _track-download"></span>' +
         '</span>' +
-        '<span class="d-context-menu__item-title">Скачать</span>' +
+        '<span class="d-context-menu__item-title _track-download">Скачать</span>' +
         '</li>'
       )
       Mu.blocks.forElem(target).$popup
@@ -53,7 +53,7 @@
   }
 
   const onDlButtonClick = (event) => {
-    const trackId = event.target.dataset.trackId
+    const trackId = event.target.closest('.d-context-menu__item_download').dataset.trackId
     requestMeta(trackId, downloadTrack)
   }
 
