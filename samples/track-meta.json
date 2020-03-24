@@ -1,0 +1,1160 @@
+{
+  "counter": 4,
+  "artists": [
+    {
+      "id": "109122",
+      "name": "Cage The Elephant",
+      "various": false,
+      "composer": false,
+      "cover": {
+        "type": "from-artist-photos",
+        "prefix": "88894ae8.p.109122/",
+        "uri": "avatars.yandex.net/get-music-content/192707/88894ae8.p.109122/%%"
+      },
+      "ogImage": "avatars.yandex.net/get-music-content/192707/88894ae8.p.109122/%%",
+      "genres": [
+        "indie"
+      ],
+      "counts": {
+        "tracks": 82,
+        "directAlbums": 10,
+        "alsoAlbums": 4,
+        "alsoTracks": 2
+      },
+      "available": true,
+      "ratings": {
+        "week": 968,
+        "month": 856,
+        "day": 1113
+      },
+      "links": [
+        {
+          "title": "cagetheelephant.com",
+          "href": "http://cagetheelephant.com",
+          "type": "official"
+        },
+        {
+          "title": "cagetheelephant",
+          "href": "https://twitter.com/cagetheelephant",
+          "type": "social",
+          "socialNetwork": "twitter"
+        },
+        {
+          "title": "cagetheelephant",
+          "href": "https://www.facebook.com/cagetheelephant",
+          "type": "social",
+          "socialNetwork": "facebook"
+        },
+        {
+          "title": "cagetheelephant/",
+          "href": "https://www.instagram.com/cagetheelephant/",
+          "type": "social",
+          "socialNetwork": "instagram"
+        },
+        {
+          "title": "user/CageTheElephantVEVO",
+          "href": "https://www.youtube.com/user/CageTheElephantVEVO",
+          "type": "social",
+          "socialNetwork": "youtube"
+        }
+      ],
+      "ticketsAvailable": false
+    },
+    {
+      "id": "6925",
+      "name": "Iggy Pop",
+      "various": false,
+      "composer": false,
+      "cover": {
+        "type": "from-artist-photos",
+        "prefix": "e8395e16.p.6925/",
+        "uri": "avatars.yandex.net/get-music-content/108289/e8395e16.p.6925/%%"
+      },
+      "ogImage": "avatars.yandex.net/get-music-content/108289/e8395e16.p.6925/%%",
+      "genres": [
+        "rock"
+      ],
+      "counts": {
+        "tracks": 659,
+        "directAlbums": 98,
+        "alsoAlbums": 315,
+        "alsoTracks": 355
+      },
+      "available": true,
+      "ratings": {
+        "week": 1862,
+        "month": 1699,
+        "day": 2416
+      },
+      "links": [
+        {
+          "title": "iggypop.com",
+          "href": "http://www.iggypop.com/",
+          "type": "official"
+        },
+        {
+          "title": "iggypop",
+          "href": "https://www.facebook.com/iggypop",
+          "type": "social",
+          "socialNetwork": "facebook"
+        },
+        {
+          "title": "iggypop",
+          "href": "https://twitter.com/iggypop",
+          "type": "social",
+          "socialNetwork": "twitter"
+        },
+        {
+          "title": "iggypopofficial/",
+          "href": "https://www.instagram.com/iggypopofficial/",
+          "type": "social",
+          "socialNetwork": "instagram"
+        },
+        {
+          "title": "user/iggypop",
+          "href": "http://www.youtube.com/user/iggypop",
+          "type": "social",
+          "socialNetwork": "youtube"
+        }
+      ],
+      "ticketsAvailable": false
+    }
+  ],
+  "aliases": [],
+  "otherVersions": {
+    "remix": [],
+    "live": [],
+    "instrumental": [],
+    "another": []
+  },
+  "alsoInAlbums": [
+    {
+      "id": 9671416,
+      "title": "Broken Boy",
+      "type": "single",
+      "metaType": "music",
+      "year": 2020,
+      "releaseDate": "2020-01-25T00:00:00+03:00",
+      "coverUri": "avatars.yandex.net/get-music-content/2399641/9bc6b71b.a.9671416-1/%%",
+      "ogImage": "avatars.yandex.net/get-music-content/2399641/9bc6b71b.a.9671416-1/%%",
+      "genre": "indie",
+      "buy": [],
+      "trackCount": 1,
+      "recent": false,
+      "veryImportant": false,
+      "artists": [
+        {
+          "id": 109122,
+          "name": "Cage The Elephant",
+          "various": false,
+          "composer": false,
+          "cover": {
+            "type": "from-artist-photos",
+            "prefix": "88894ae8.p.109122/",
+            "uri": "avatars.yandex.net/get-music-content/192707/88894ae8.p.109122/%%"
+          },
+          "genres": []
+        },
+        {
+          "id": 6925,
+          "name": "Iggy Pop",
+          "various": false,
+          "composer": false,
+          "cover": {
+            "type": "from-artist-photos",
+            "prefix": "e8395e16.p.6925/",
+            "uri": "avatars.yandex.net/get-music-content/108289/e8395e16.p.6925/%%"
+          },
+          "genres": []
+        }
+      ],
+      "labels": [
+        {
+          "id": 646867,
+          "name": "110 Entertainment"
+        }
+      ],
+      "available": true,
+      "availableForPremiumUsers": true,
+      "availableForMobile": true,
+      "availablePartially": false,
+      "bests": [],
+      "trackPosition": {
+        "volume": 1,
+        "index": 1
+      }
+    }
+  ],
+  "similarTracks": [
+    {
+      "id": "8186873",
+      "realId": "8186873",
+      "title": "Ein",
+      "major": {
+        "id": 39,
+        "name": "ORCHARD"
+      },
+      "available": true,
+      "availableForPremiumUsers": true,
+      "availableFullWithoutPermission": false,
+      "durationMs": 189540,
+      "storageDir": "229380_f2b4e59b.10635577.1.8186873",
+      "fileSize": 4549693,
+      "normalization": {
+        "gain": -7.49,
+        "peak": 32766
+      },
+      "previewDurationMs": 30000,
+      "artists": [
+        {
+          "id": 1341574,
+          "name": "Dance For Burgess",
+          "various": false,
+          "composer": false,
+          "cover": {
+            "type": "from-album-cover",
+            "prefix": "9dcadaed.a.1364696-1",
+            "uri": "avatars.yandex.net/get-music-content/49707/9dcadaed.a.1364696-1/%%"
+          },
+          "genres": []
+        }
+      ],
+      "albums": [
+        {
+          "id": 854580,
+          "title": "Ssa",
+          "year": 2010,
+          "releaseDate": "2010-10-01T00:00:00+04:00",
+          "coverUri": "avatars.yandex.net/get-music-content/33216/302c1d64.a.854580-1/%%",
+          "ogImage": "avatars.yandex.net/get-music-content/33216/302c1d64.a.854580-1/%%",
+          "genre": "rock",
+          "buy": [],
+          "trackCount": 10,
+          "recent": false,
+          "veryImportant": false,
+          "artists": [
+            {
+              "id": 1341574,
+              "name": "Dance For Burgess",
+              "various": false,
+              "composer": false,
+              "cover": {
+                "type": "from-album-cover",
+                "prefix": "9dcadaed.a.1364696-1",
+                "uri": "avatars.yandex.net/get-music-content/49707/9dcadaed.a.1364696-1/%%"
+              },
+              "genres": []
+            }
+          ],
+          "labels": [
+            {
+              "id": 71987,
+              "name": "Mashhh!"
+            }
+          ],
+          "available": true,
+          "availableForPremiumUsers": true,
+          "availableForMobile": true,
+          "availablePartially": false,
+          "bests": [],
+          "trackPosition": {
+            "volume": 1,
+            "index": 1
+          }
+        }
+      ],
+      "coverUri": "avatars.yandex.net/get-music-content/33216/302c1d64.a.854580-1/%%",
+      "ogImage": "avatars.yandex.net/get-music-content/33216/302c1d64.a.854580-1/%%",
+      "lyricsAvailable": false,
+      "type": "music",
+      "rememberPosition": false
+    },
+    {
+      "id": "27380681",
+      "realId": "27380681",
+      "title": "Sonerella",
+      "major": {
+        "id": 108,
+        "name": "CDBABY"
+      },
+      "available": true,
+      "availableForPremiumUsers": true,
+      "availableFullWithoutPermission": false,
+      "durationMs": 151350,
+      "storageDir": "21461_e548d005.27380681",
+      "fileSize": 3633109,
+      "normalization": {
+        "gain": -10.67,
+        "peak": 32766
+      },
+      "previewDurationMs": 30000,
+      "artists": [
+        {
+          "id": 4188486,
+          "name": "Reunionunion",
+          "various": false,
+          "composer": false,
+          "cover": {
+            "type": "from-album-cover",
+            "prefix": "05d240eb.a.7033217-1",
+            "uri": "avatars.yandex.net/get-music-content/193823/05d240eb.a.7033217-1/%%"
+          },
+          "genres": []
+        }
+      ],
+      "albums": [
+        {
+          "id": 3278314,
+          "title": "Reunionunion",
+          "year": 2016,
+          "releaseDate": "2016-01-11T00:00:00+03:00",
+          "coverUri": "avatars.yandex.net/get-music-content/49707/bf44c893.a.3278314-1/%%",
+          "ogImage": "avatars.yandex.net/get-music-content/49707/bf44c893.a.3278314-1/%%",
+          "genre": "newwave",
+          "buy": [],
+          "trackCount": 10,
+          "recent": false,
+          "veryImportant": false,
+          "artists": [
+            {
+              "id": 4188486,
+              "name": "Reunionunion",
+              "various": false,
+              "composer": false,
+              "cover": {
+                "type": "from-album-cover",
+                "prefix": "05d240eb.a.7033217-1",
+                "uri": "avatars.yandex.net/get-music-content/193823/05d240eb.a.7033217-1/%%"
+              },
+              "genres": []
+            }
+          ],
+          "labels": [
+            {
+              "id": 83810,
+              "name": "CD Baby"
+            }
+          ],
+          "available": true,
+          "availableForPremiumUsers": true,
+          "availableForMobile": true,
+          "availablePartially": false,
+          "bests": [],
+          "trackPosition": {
+            "volume": 1,
+            "index": 2
+          }
+        }
+      ],
+      "coverUri": "avatars.yandex.net/get-music-content/49707/bf44c893.a.3278314-1/%%",
+      "ogImage": "avatars.yandex.net/get-music-content/49707/bf44c893.a.3278314-1/%%",
+      "lyricsAvailable": false,
+      "type": "music",
+      "rememberPosition": false
+    },
+    {
+      "id": "25309025",
+      "realId": "25309025",
+      "title": "Fuck This Garbage World",
+      "contentWarning": "explicit",
+      "major": {
+        "id": 131,
+        "name": "TUNECORE"
+      },
+      "available": true,
+      "availableForPremiumUsers": true,
+      "availableFullWithoutPermission": false,
+      "durationMs": 45530,
+      "storageDir": "140709_ea726eb5.37444038.1.25309025",
+      "fileSize": 1093380,
+      "normalization": {
+        "gain": -13.33,
+        "peak": 32766
+      },
+      "previewDurationMs": 30000,
+      "artists": [
+        {
+          "id": 3941227,
+          "name": "Dogs in Ecstasy",
+          "various": false,
+          "composer": false,
+          "cover": {
+            "type": "from-album-cover",
+            "prefix": "f7f747b1.a.2981489-1",
+            "uri": "avatars.yandex.net/get-music-content/38044/f7f747b1.a.2981489-1/%%"
+          },
+          "genres": []
+        }
+      ],
+      "albums": [
+        {
+          "id": 2981489,
+          "title": "Welcome 2 Hell",
+          "contentWarning": "explicit",
+          "year": 2015,
+          "releaseDate": "2015-09-29T00:00:00+03:00",
+          "coverUri": "avatars.yandex.net/get-music-content/38044/f7f747b1.a.2981489-1/%%",
+          "ogImage": "avatars.yandex.net/get-music-content/38044/f7f747b1.a.2981489-1/%%",
+          "genre": "alternative",
+          "buy": [],
+          "trackCount": 20,
+          "recent": false,
+          "veryImportant": false,
+          "artists": [
+            {
+              "id": 3941227,
+              "name": "Dogs in Ecstasy",
+              "various": false,
+              "composer": false,
+              "cover": {
+                "type": "from-album-cover",
+                "prefix": "f7f747b1.a.2981489-1",
+                "uri": "avatars.yandex.net/get-music-content/38044/f7f747b1.a.2981489-1/%%"
+              },
+              "genres": []
+            }
+          ],
+          "labels": [
+            {
+              "id": 689450,
+              "name": "Thunder Zone"
+            }
+          ],
+          "available": true,
+          "availableForPremiumUsers": true,
+          "availableForMobile": true,
+          "availablePartially": false,
+          "bests": [],
+          "trackPosition": {
+            "volume": 1,
+            "index": 13
+          }
+        }
+      ],
+      "coverUri": "avatars.yandex.net/get-music-content/38044/f7f747b1.a.2981489-1/%%",
+      "ogImage": "avatars.yandex.net/get-music-content/38044/f7f747b1.a.2981489-1/%%",
+      "lyricsAvailable": false,
+      "type": "music",
+      "rememberPosition": false
+    },
+    {
+      "id": "33842405",
+      "realId": "33842405",
+      "title": "Pretty Good WiFi",
+      "major": {
+        "id": 3,
+        "name": "SONY"
+      },
+      "available": true,
+      "availableForPremiumUsers": true,
+      "availableFullWithoutPermission": false,
+      "durationMs": 187000,
+      "storageDir": "45635_b8c41bda.50341556.2.33842405",
+      "fileSize": 4488881,
+      "normalization": {
+        "gain": -10.58,
+        "peak": 32766
+      },
+      "previewDurationMs": 30000,
+      "artists": [
+        {
+          "id": 4743794,
+          "name": "Dams Of The West",
+          "various": false,
+          "composer": false,
+          "cover": {
+            "type": "from-album-cover",
+            "prefix": "61642580.a.4812162-1",
+            "uri": "avatars.yandex.net/get-music-content/119639/61642580.a.4812162-1/%%"
+          },
+          "genres": []
+        }
+      ],
+      "albums": [
+        {
+          "id": 4143096,
+          "title": "Youngish American",
+          "year": 2017,
+          "releaseDate": "2017-02-24T00:00:00+03:00",
+          "coverUri": "avatars.yandex.net/get-music-content/175191/139432aa.a.4143096-1/%%",
+          "ogImage": "avatars.yandex.net/get-music-content/175191/139432aa.a.4143096-1/%%",
+          "genre": "indie",
+          "buy": [],
+          "trackCount": 10,
+          "recent": false,
+          "veryImportant": false,
+          "artists": [
+            {
+              "id": 4743794,
+              "name": "Dams Of The West",
+              "various": false,
+              "composer": false,
+              "cover": {
+                "type": "from-album-cover",
+                "prefix": "61642580.a.4812162-1",
+                "uri": "avatars.yandex.net/get-music-content/119639/61642580.a.4812162-1/%%"
+              },
+              "genres": []
+            }
+          ],
+          "labels": [
+            {
+              "id": 745954,
+              "name": "30th Century"
+            },
+            {
+              "id": 37667,
+              "name": "Columbia"
+            }
+          ],
+          "available": true,
+          "availableForPremiumUsers": true,
+          "availableForMobile": true,
+          "availablePartially": false,
+          "bests": [],
+          "trackPosition": {
+            "volume": 1,
+            "index": 9
+          }
+        }
+      ],
+      "coverUri": "avatars.yandex.net/get-music-content/175191/139432aa.a.4143096-1/%%",
+      "ogImage": "avatars.yandex.net/get-music-content/175191/139432aa.a.4143096-1/%%",
+      "lyricsAvailable": true,
+      "type": "music",
+      "rememberPosition": false
+    },
+    {
+      "id": "8525986",
+      "realId": "8525986",
+      "title": "Nothings Gonna Change - Acey Slade",
+      "major": {
+        "id": 39,
+        "name": "ORCHARD"
+      },
+      "available": true,
+      "availableForPremiumUsers": true,
+      "availableFullWithoutPermission": false,
+      "durationMs": 196730,
+      "storageDir": "237879_99d39b8e.10994611.1.8525986",
+      "fileSize": 4721475,
+      "normalization": {
+        "gain": -13.11,
+        "peak": 32766
+      },
+      "previewDurationMs": 30000,
+      "artists": [
+        {
+          "id": 1375789,
+          "name": "Acey Slade & The Dark Party",
+          "various": false,
+          "composer": false,
+          "cover": {
+            "type": "from-album-cover",
+            "prefix": "9a7c9b74.a.900771-1",
+            "uri": "avatars.yandex.net/get-music-content/33216/9a7c9b74.a.900771-1/%%"
+          },
+          "genres": []
+        }
+      ],
+      "albums": [
+        {
+          "id": 889028,
+          "title": "Sex, Murder, Art, Baby!",
+          "version": "Limited Edition EP",
+          "year": 2010,
+          "releaseDate": "2010-11-01T00:00:00+03:00",
+          "coverUri": "avatars.yandex.net/get-music-content/49876/332a9151.a.889028-1/%%",
+          "ogImage": "avatars.yandex.net/get-music-content/49876/332a9151.a.889028-1/%%",
+          "genre": "alternative",
+          "buy": [],
+          "trackCount": 6,
+          "recent": false,
+          "veryImportant": false,
+          "artists": [
+            {
+              "id": 1375789,
+              "name": "Acey Slade & The Dark Party",
+              "various": false,
+              "composer": false,
+              "cover": {
+                "type": "from-album-cover",
+                "prefix": "9a7c9b74.a.900771-1",
+                "uri": "avatars.yandex.net/get-music-content/33216/9a7c9b74.a.900771-1/%%"
+              },
+              "genres": []
+            }
+          ],
+          "labels": [
+            {
+              "id": 81951,
+              "name": "Orchard"
+            }
+          ],
+          "available": true,
+          "availableForPremiumUsers": true,
+          "availableForMobile": true,
+          "availablePartially": false,
+          "bests": [],
+          "trackPosition": {
+            "volume": 1,
+            "index": 3
+          }
+        }
+      ],
+      "coverUri": "avatars.yandex.net/get-music-content/49876/332a9151.a.889028-1/%%",
+      "ogImage": "avatars.yandex.net/get-music-content/49876/332a9151.a.889028-1/%%",
+      "lyricsAvailable": false,
+      "type": "music",
+      "rememberPosition": false
+    },
+    {
+      "id": "30041904",
+      "realId": "30041904",
+      "title": "Wetter",
+      "major": {
+        "id": 39,
+        "name": "ORCHARD"
+      },
+      "available": true,
+      "availableForPremiumUsers": true,
+      "availableFullWithoutPermission": false,
+      "durationMs": 246230,
+      "storageDir": "55473_a8ef4a08.44580793.1.30041904",
+      "fileSize": 5910150,
+      "normalization": {
+        "gain": -10.18,
+        "peak": 32766
+      },
+      "previewDurationMs": 30000,
+      "artists": [
+        {
+          "id": 1159484,
+          "name": "The Singularity",
+          "various": false,
+          "composer": false,
+          "cover": {
+            "type": "from-album-cover",
+            "prefix": "8a74ac49.a.2879505-1",
+            "uri": "avatars.yandex.net/get-music-content/49876/8a74ac49.a.2879505-1/%%"
+          },
+          "genres": []
+        }
+      ],
+      "albums": [
+        {
+          "id": 3625264,
+          "title": "Weta EP",
+          "year": 2015,
+          "releaseDate": "2015-03-02T00:00:00+03:00",
+          "coverUri": "avatars.yandex.net/get-music-content/33216/e653389e.a.3625264-1/%%",
+          "ogImage": "avatars.yandex.net/get-music-content/33216/e653389e.a.3625264-1/%%",
+          "genre": "electronics",
+          "buy": [],
+          "trackCount": 4,
+          "recent": false,
+          "veryImportant": false,
+          "artists": [
+            {
+              "id": 1159484,
+              "name": "The Singularity",
+              "various": false,
+              "composer": false,
+              "cover": {
+                "type": "from-album-cover",
+                "prefix": "8a74ac49.a.2879505-1",
+                "uri": "avatars.yandex.net/get-music-content/49876/8a74ac49.a.2879505-1/%%"
+              },
+              "genres": []
+            }
+          ],
+          "labels": [
+            {
+              "id": 56666,
+              "name": "Impossible Things"
+            }
+          ],
+          "available": true,
+          "availableForPremiumUsers": true,
+          "availableForMobile": true,
+          "availablePartially": false,
+          "bests": [],
+          "trackPosition": {
+            "volume": 1,
+            "index": 1
+          }
+        }
+      ],
+      "coverUri": "avatars.yandex.net/get-music-content/33216/e653389e.a.3625264-1/%%",
+      "ogImage": "avatars.yandex.net/get-music-content/33216/e653389e.a.3625264-1/%%",
+      "lyricsAvailable": true,
+      "type": "music",
+      "rememberPosition": false
+    },
+    {
+      "id": "50360741",
+      "realId": "50360741",
+      "title": "House Of Glass",
+      "major": {
+        "id": 3,
+        "name": "SONY"
+      },
+      "available": true,
+      "availableForPremiumUsers": true,
+      "availableFullWithoutPermission": false,
+      "durationMs": 154880,
+      "storageDir": "1130811_87626723.74916766.2.50360741",
+      "fileSize": 3717746,
+      "normalization": {
+        "gain": -12.05,
+        "peak": 32728
+      },
+      "previewDurationMs": 30000,
+      "artists": [
+        {
+          "id": 109122,
+          "name": "Cage The Elephant",
+          "various": false,
+          "composer": false,
+          "cover": {
+            "type": "from-artist-photos",
+            "prefix": "88894ae8.p.109122/",
+            "uri": "avatars.yandex.net/get-music-content/192707/88894ae8.p.109122/%%"
+          },
+          "genres": []
+        }
+      ],
+      "albums": [
+        {
+          "id": 7274081,
+          "title": "Social Cues",
+          "year": 2019,
+          "releaseDate": "2019-04-19T00:00:00+03:00",
+          "coverUri": "avatars.yandex.net/get-music-content/99892/da0fab44.a.7274081-1/%%",
+          "ogImage": "avatars.yandex.net/get-music-content/99892/da0fab44.a.7274081-1/%%",
+          "genre": "indie",
+          "buy": [],
+          "trackCount": 13,
+          "recent": false,
+          "veryImportant": false,
+          "artists": [
+            {
+              "id": 109122,
+              "name": "Cage The Elephant",
+              "various": false,
+              "composer": false,
+              "cover": {
+                "type": "from-artist-photos",
+                "prefix": "88894ae8.p.109122/",
+                "uri": "avatars.yandex.net/get-music-content/192707/88894ae8.p.109122/%%"
+              },
+              "genres": []
+            }
+          ],
+          "labels": [
+            {
+              "id": 646867,
+              "name": "110 Entertainment"
+            }
+          ],
+          "available": true,
+          "availableForPremiumUsers": true,
+          "availableForMobile": true,
+          "availablePartially": false,
+          "bests": [
+            49109933,
+            51928961,
+            51928962
+          ],
+          "trackPosition": {
+            "volume": 1,
+            "index": 7
+          }
+        }
+      ],
+      "coverUri": "avatars.yandex.net/get-music-content/99892/da0fab44.a.7274081-1/%%",
+      "ogImage": "avatars.yandex.net/get-music-content/99892/da0fab44.a.7274081-1/%%",
+      "lyricsAvailable": true,
+      "type": "music",
+      "rememberPosition": false
+    },
+    {
+      "id": "4648080",
+      "realId": "4648080",
+      "title": "Mini, mini, mini",
+      "major": {
+        "id": 87,
+        "name": "BELIEVE_DIGITAL"
+      },
+      "available": true,
+      "availableForPremiumUsers": true,
+      "availableFullWithoutPermission": false,
+      "durationMs": 119510,
+      "storageDir": "237887_fd70e12b.6189689.1.4648080",
+      "fileSize": 2865736,
+      "normalization": {
+        "gain": -10.21,
+        "peak": 32766
+      },
+      "previewDurationMs": 30000,
+      "artists": [
+        {
+          "id": 785052,
+          "name": "Bikini Machine",
+          "various": false,
+          "composer": false,
+          "cover": {
+            "type": "from-album-cover",
+            "prefix": "25d10d81.a.511849-1",
+            "uri": "avatars.yandex.net/get-music-content/63210/25d10d81.a.511849-1/%%"
+          },
+          "genres": []
+        }
+      ],
+      "albums": [
+        {
+          "id": 521533,
+          "title": "Bikini Machine joue Dutronc",
+          "year": 2011,
+          "releaseDate": "2011-02-14T00:00:00+03:00",
+          "coverUri": "avatars.yandex.net/get-music-content/38044/e25fb96c.a.521533-1/%%",
+          "ogImage": "avatars.yandex.net/get-music-content/38044/e25fb96c.a.521533-1/%%",
+          "genre": "electronics",
+          "buy": [],
+          "trackCount": 8,
+          "recent": false,
+          "veryImportant": false,
+          "artists": [
+            {
+              "id": 785052,
+              "name": "Bikini Machine",
+              "various": false,
+              "composer": false,
+              "cover": {
+                "type": "from-album-cover",
+                "prefix": "25d10d81.a.511849-1",
+                "uri": "avatars.yandex.net/get-music-content/63210/25d10d81.a.511849-1/%%"
+              },
+              "genres": []
+            }
+          ],
+          "labels": [
+            {
+              "id": 16899,
+              "name": "Platinum Records & Movies"
+            }
+          ],
+          "available": true,
+          "availableForPremiumUsers": true,
+          "availableForMobile": true,
+          "availablePartially": false,
+          "bests": [],
+          "trackPosition": {
+            "volume": 1,
+            "index": 2
+          }
+        }
+      ],
+      "coverUri": "avatars.yandex.net/get-music-content/38044/e25fb96c.a.521533-1/%%",
+      "ogImage": "avatars.yandex.net/get-music-content/38044/e25fb96c.a.521533-1/%%",
+      "lyricsAvailable": false,
+      "type": "music",
+      "rememberPosition": false
+    },
+    {
+      "id": "27197759",
+      "realId": "27197759",
+      "title": "Prisencolinensinainciusol",
+      "major": {
+        "id": 87,
+        "name": "BELIEVE_DIGITAL"
+      },
+      "available": true,
+      "availableForPremiumUsers": true,
+      "availableFullWithoutPermission": false,
+      "durationMs": 207730,
+      "storageDir": "1635105_a3543e63.40494742.1.27197759",
+      "fileSize": 4986671,
+      "normalization": {
+        "gain": -8.54,
+        "peak": 32766
+      },
+      "previewDurationMs": 30000,
+      "artists": [
+        {
+          "id": 3607469,
+          "name": "DEMOMODE",
+          "various": false,
+          "composer": false,
+          "cover": {
+            "type": "from-album-cover",
+            "prefix": "629f5bc0.a.3252035-1",
+            "uri": "avatars.yandex.net/get-music-content/42108/629f5bc0.a.3252035-1/%%"
+          },
+          "genres": []
+        }
+      ],
+      "albums": [
+        {
+          "id": 3252035,
+          "title": "OU",
+          "year": 2014,
+          "releaseDate": "2014-10-19T00:00:00+04:00",
+          "coverUri": "avatars.yandex.net/get-music-content/42108/629f5bc0.a.3252035-1/%%",
+          "ogImage": "avatars.yandex.net/get-music-content/42108/629f5bc0.a.3252035-1/%%",
+          "genre": "alternative",
+          "buy": [],
+          "trackCount": 10,
+          "recent": false,
+          "veryImportant": false,
+          "artists": [
+            {
+              "id": 3607469,
+              "name": "DEMOMODE",
+              "various": false,
+              "composer": false,
+              "cover": {
+                "type": "from-album-cover",
+                "prefix": "629f5bc0.a.3252035-1",
+                "uri": "avatars.yandex.net/get-music-content/42108/629f5bc0.a.3252035-1/%%"
+              },
+              "genres": []
+            }
+          ],
+          "labels": [
+            {
+              "id": 44344,
+              "name": "Dcave"
+            }
+          ],
+          "available": true,
+          "availableForPremiumUsers": true,
+          "availableForMobile": true,
+          "availablePartially": false,
+          "bests": [],
+          "trackPosition": {
+            "volume": 1,
+            "index": 7
+          }
+        }
+      ],
+      "coverUri": "avatars.yandex.net/get-music-content/42108/629f5bc0.a.3252035-1/%%",
+      "ogImage": "avatars.yandex.net/get-music-content/42108/629f5bc0.a.3252035-1/%%",
+      "lyricsAvailable": false,
+      "type": "music",
+      "rememberPosition": false
+    },
+    {
+      "id": "23575811",
+      "realId": "23575811",
+      "title": "Leave It Alone",
+      "major": {
+        "id": 1,
+        "name": "UNIVERSAL_MUSIC"
+      },
+      "available": true,
+      "availableForPremiumUsers": true,
+      "availableFullWithoutPermission": false,
+      "durationMs": 201560,
+      "storageDir": "25675_f01a8937.34618686.1.23575811",
+      "fileSize": 4837458,
+      "normalization": {
+        "gain": -9.81,
+        "peak": 32766
+      },
+      "previewDurationMs": 30000,
+      "artists": [
+        {
+          "id": 3381403,
+          "name": "White Arrows",
+          "various": false,
+          "composer": false,
+          "cover": {
+            "type": "from-album-cover",
+            "prefix": "d6d792aa.a.4042295-1",
+            "uri": "avatars.yandex.net/get-music-content/38044/d6d792aa.a.4042295-1/%%"
+          },
+          "genres": []
+        }
+      ],
+      "albums": [
+        {
+          "id": 2721709,
+          "title": "In Bardo",
+          "contentWarning": "explicit",
+          "year": 2015,
+          "releaseDate": "2015-03-02T00:00:00+03:00",
+          "coverUri": "avatars.yandex.net/get-music-content/33216/651a0923.a.2721709-1/%%",
+          "ogImage": "avatars.yandex.net/get-music-content/33216/651a0923.a.2721709-1/%%",
+          "genre": "alternative",
+          "buy": [],
+          "trackCount": 14,
+          "recent": false,
+          "veryImportant": false,
+          "artists": [
+            {
+              "id": 3381403,
+              "name": "White Arrows",
+              "various": false,
+              "composer": false,
+              "cover": {
+                "type": "from-album-cover",
+                "prefix": "d6d792aa.a.4042295-1",
+                "uri": "avatars.yandex.net/get-music-content/38044/d6d792aa.a.4042295-1/%%"
+              },
+              "genres": []
+            }
+          ],
+          "labels": [
+            {
+              "id": 445891,
+              "name": "Votiv"
+            }
+          ],
+          "available": true,
+          "availableForPremiumUsers": true,
+          "availableForMobile": true,
+          "availablePartially": false,
+          "bests": [],
+          "trackPosition": {
+            "volume": 1,
+            "index": 6
+          }
+        }
+      ],
+      "coverUri": "avatars.yandex.net/get-music-content/33216/651a0923.a.2721709-1/%%",
+      "ogImage": "avatars.yandex.net/get-music-content/33216/651a0923.a.2721709-1/%%",
+      "lyricsAvailable": true,
+      "type": "music",
+      "rememberPosition": false
+    }
+  ],
+  "track": {
+    "id": "61795355",
+    "realId": "61795355",
+    "title": "Broken Boy",
+    "major": {
+      "id": 3,
+      "name": "SONY"
+    },
+    "available": true,
+    "availableForPremiumUsers": true,
+    "availableFullWithoutPermission": false,
+    "durationMs": 163210,
+    "storageDir": "1748725_b489273d.92208659.1.61795355",
+    "fileSize": 3917740,
+    "normalization": {
+      "gain": -11.92,
+      "peak": 32728
+    },
+    "previewDurationMs": 30000,
+    "artists": [
+      {
+        "id": 109122,
+        "name": "Cage The Elephant",
+        "various": false,
+        "composer": false,
+        "cover": {
+          "type": "from-artist-photos",
+          "prefix": "88894ae8.p.109122/",
+          "uri": "avatars.yandex.net/get-music-content/192707/88894ae8.p.109122/%%"
+        },
+        "genres": []
+      },
+      {
+        "id": 6925,
+        "name": "Iggy Pop",
+        "various": false,
+        "composer": false,
+        "cover": {
+          "type": "from-artist-photos",
+          "prefix": "e8395e16.p.6925/",
+          "uri": "avatars.yandex.net/get-music-content/108289/e8395e16.p.6925/%%"
+        },
+        "genres": []
+      }
+    ],
+    "albums": [
+      {
+        "id": 9671416,
+        "title": "Broken Boy",
+        "type": "single",
+        "metaType": "music",
+        "year": 2020,
+        "releaseDate": "2020-01-25T00:00:00+03:00",
+        "coverUri": "avatars.yandex.net/get-music-content/2399641/9bc6b71b.a.9671416-1/%%",
+        "ogImage": "avatars.yandex.net/get-music-content/2399641/9bc6b71b.a.9671416-1/%%",
+        "genre": "indie",
+        "buy": [],
+        "trackCount": 1,
+        "recent": false,
+        "veryImportant": false,
+        "artists": [
+          {
+            "id": 109122,
+            "name": "Cage The Elephant",
+            "various": false,
+            "composer": false,
+            "cover": {
+              "type": "from-artist-photos",
+              "prefix": "88894ae8.p.109122/",
+              "uri": "avatars.yandex.net/get-music-content/192707/88894ae8.p.109122/%%"
+            },
+            "genres": []
+          },
+          {
+            "id": 6925,
+            "name": "Iggy Pop",
+            "various": false,
+            "composer": false,
+            "cover": {
+              "type": "from-artist-photos",
+              "prefix": "e8395e16.p.6925/",
+              "uri": "avatars.yandex.net/get-music-content/108289/e8395e16.p.6925/%%"
+            },
+            "genres": []
+          }
+        ],
+        "labels": [
+          {
+            "id": 646867,
+            "name": "110 Entertainment"
+          }
+        ],
+        "available": true,
+        "availableForPremiumUsers": true,
+        "availableForMobile": true,
+        "availablePartially": false,
+        "bests": [],
+        "trackPosition": {
+          "volume": 1,
+          "index": 1
+        }
+      }
+    ],
+    "coverUri": "avatars.yandex.net/get-music-content/2399641/9bc6b71b.a.9671416-1/%%",
+    "ogImage": "avatars.yandex.net/get-music-content/2399641/9bc6b71b.a.9671416-1/%%",
+    "lyricsAvailable": true,
+    "type": "music",
+    "rememberPosition": false
+  },
+  "lyric": [
+    {
+      "id": 61795355,
+      "lyrics": "I was born on the wrong side of the train tracks\nI was raised with a strap across my back\nLay me on my side or hold me up to the light, yeah\nI was burned by the cold kiss of a vampire",
+      "fullLyrics": "I was born on the wrong side of the train tracks\nI was raised with a strap across my back\nLay me on my side or hold me up to the light, yeah\nI was burned by the cold kiss of a vampire\nI was bit by the whisper of a soft liar\nAny good friend of yours is a good friend of mine\n\nBroken boy, how does it feel?\nBroken boy, how does it feel? How does it feel?\n\nTell me why I'm forced to live in this skin\nTell me why I’m forced to live in this skin\nI'm an alien, I'm just an alien, oh\nTell me why I was born to live in this skin\nTell me how I’m supposed to be forgiven\nWith my hand in the hive and the sun in my eyes, yeah\n\nBroken boy, how does it feel?\nBroken boy, how does it feel? How does it feel?\n\nI was born on the wrong side of the train tracks\nAlways born on the wrong side of the train tracks\nLay me on my side or hold me up to the light, yeah\nI was burned by the cold kiss of a vampire\nI was promised the keys to an empire\nAny good friend of yours is a good friend of mine, oh\n\nBroken boy, how does it feel?\nBroken boy, how does it feel? How does it feel?",
+      "hasRights": true,
+      "textLanguage": "en",
+      "showTranslation": true
+    }
+  ],
+  "videos": [
+    {
+      "cover": "https://avatars.mds.yandex.net/get-vthumb/759922/131dc6552ad23c66eda442f28cb13792/%%x%%",
+      "url": "http://www.youtube.com/watch?v=HjFyTiZ5d10",
+      "title": "Cage The Elephant - Cage The Elephant on Austin City Limits \"Broken Boy\"",
+      "embed": "<iframe src=\"//www.youtube.com/embed/HjFyTiZ5d10?autoplay=1&amp;enablejsapi=1&amp;wmode=opaque\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"1\" allow=\"autoplay; fullscreen; accelerometer; gyroscope; picture-in-picture\" aria-label=\"Video\"></iframe>"
+    }
+  ],
+  "radioIsAvailable": false
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Ya.Music Helper",
+  "version": "1.0",
+  "description": "Bunch of tools for Yandex Music!",
+  "manifest_version": 2,
+  "background": {
+    "scripts": [
+      "js/background.js"
+    ],
+    "persistent": false
+  },
+  "permissions": ["downloads"],
+  "content_scripts": [
+    {
+      "js": [
+        "js/tools.js",
+        "js/foreground.js"
+      ],
+      "matches": [
+        "http://music.yandex.ru/*",
+        "https://music.yandex.ru/*"
+      ],
+      "run_at": "document_idle"
+    }
+  ]
+}
