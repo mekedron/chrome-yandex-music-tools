@@ -5,6 +5,7 @@
 
   const init = () => {
     attachEvents()
+    injectPlayerDlButton()
   }
 
   const attachEvents = () => {
@@ -24,7 +25,9 @@
   const onContextMenuClick = (event) => {
     const contextMenuBlock = event.target.parentElement
     const menuBlockId = contextMenuBlock.dataset.b
-    const trackBlock = contextMenuBlock.closest('.d-track').querySelector('button[data-idx]')
+    const trackBlock = contextMenuBlock
+      .closest('.d-track')
+      .querySelector('button[data-idx]')
     const trackId = trackBlock.dataset.idx
     injectDlButton(menuBlockId, trackId)
   }
@@ -53,7 +56,7 @@
   }
 
   const onDlButtonClick = (event) => {
-    const trackId = event.target.closest('.d-context-menu__item_download').dataset.trackId
+    const trackId = event.target.closest('._track-download[data-track-id]').dataset.trackId
     requestMeta(trackId, downloadTrack)
   }
 
@@ -135,6 +138,58 @@
   const log = (message, ...args) => {
     console.error(message, args)
     alert('Что-то пошло не так :0')
+  }
+
+  const injectPlayerDlButton = () => {
+    proxy(function () {
+      const $button = jQuery(
+        '<span  class="player-controls__btn deco-player-controls__button _track-download" data-track-id="" style="margin-right: -40px;">' +
+        '<span class="d-icon d-icon_download _track-download" title="Скачать" style="margin: 9px;width: 22px;height: 22px;"></span>' +
+        '</span>' +
+        '</span>'
+      )
+      const mutationObserver = new MutationObserver(mutations => {
+        for(let mutation of mutations) {
+          for(let node of mutation.addedNodes) {
+            if (!(node instanceof HTMLElement)) {
+              continue
+            }
+            if (node.matches('.player-controls__track-controls')) {
+              setTrackId(node)
+            }
+            for(let elem of node.querySelectorAll('.player-controls__track-controls')) {
+              setTrackId(node)
+            }
+          }
+        }
+      })
+
+      mutationObserver.observe(
+        document.querySelector('.player-controls__track-container'),
+        {childList: true, subtree: true}
+      )
+
+      const setTrackId = function (container) {
+        const playerBlock = container.querySelector('.track')
+        const controlsBlock = container.querySelector('.player-controls__track-controls')
+        const playerBlockInst = Mu.blocks.forElem(playerBlock)
+
+        if (!playerBlockInst) {
+          return
+        }
+
+        debugger;
+        const trackId = playerBlockInst.data.track
+          ? playerBlockInst.data.track.id
+          : playerBlockInst.data.id
+        $button.attr('data-track-id', trackId)
+
+        const dlButton = controlsBlock.querySelector('._track-download')
+        if (!dlButton) {
+          jQuery(controlsBlock).append($button)
+        }
+      }
+    })
   }
 
   init()
