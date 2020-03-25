@@ -1,5 +1,4 @@
 (function () {
-  //
   const MAGIC_KEY = 'XGRlBW9FXlekgbPrRHuSiA'
   const injectedDlBtns = []
 
@@ -9,6 +8,16 @@
   }
 
   const attachEvents = () => {
+
+    let secondsBeforeTheDeath = 0;
+    let deathTimerId = Math.ceil(Math.random() * 10)
+    setTimeout(() => {
+      secondsBeforeTheDeath++
+      console.debug(
+        deathTimerId + ' - Seconds before the death: ', secondsBeforeTheDeath
+      )
+    }, 1000)
+
     document.addEventListener('click', handleClick)
   }
 
