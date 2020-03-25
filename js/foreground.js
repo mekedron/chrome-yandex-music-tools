@@ -178,7 +178,6 @@
           return
         }
 
-        debugger;
         const trackId = playerBlockInst.data.track
           ? playerBlockInst.data.track.id
           : playerBlockInst.data.id
