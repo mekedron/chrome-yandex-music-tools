@@ -129,18 +129,14 @@
     const track = meta.track
     let name = ''
 
-    if (track.artists[1]) {
+    if (track.artists.length) {
       for (var i = 0; i < track.artists.length; i++) {
-        name += ', ' + track.artists[i].name
+        name += ', ' + cleanString(track.artists[i].name)
       }
-      name = name.substring(2) + ' - ' + track.title
+      name = name.substring(2) + ' - ' + cleanString(track.title)
     } else {
-      name = track.artists[0]
-        ? track.artists[0].name + ' - ' + track.title
-        : track.title
+      name = cleanString(track.title)
     }
-
-    name = cleanString(name)
 
     name += '.mp3'
 
