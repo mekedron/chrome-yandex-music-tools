@@ -133,7 +133,7 @@
       for (var i = 0; i < track.artists.length; i++) {
         name += ', ' + track.artists[i].name
       }
-      name = name.substring(2)
+      name = name.substring(2) + ' - ' + track.title
     } else {
       name = track.artists[0]
         ? track.artists[0].name + ' - ' + track.title
