@@ -1,5 +1,14 @@
+----------------
+request for hq link:
+                                                 trackId:albumId
+https://music.yandex.ru/api/v2.1/handlers/track/14272073:1600378/web-artist-top_tracks-track-main/download/m?hq=1&external-domain=music.yandex.ru&overembed=no&__t=1585235847495
+{"codec":"mp3","bitrate":320,"src":"https://storage.mds.yandex.net/file-download-info/10321_e5e06b54.18450244.14272073/320?sign=7d5ca211e3ce3f26037257defee2c5efa7a537a88c3ecde59aac4e7c91c11502&ts=5e7cc7c3","gain":false,"preview":false}
+-------------
+
+
+low q:
 https://s94iva.storage.yandex.net/get-mp3/986b0045d74c6d51f569163ecbdb4202/0005a1a196b03343/rmusic/U2FsdGVkX19odN1s51VuXbL_h1hV3HxQ4jK8Q-SAzfMT_IhpEQOaTZS32iJCoPp4b4h29FBEB7lRPnylf-w_9A/c4d6fc1ac45057ad3a97ab614d87235c0f34bb5ada6f3462c0509fa16764407d
 
 надо сделать orig:
-orig: https://s239myt.storage.yandex.net/get-mp3/31aaf50873be7899b4c16a1ffb2239a7/0005a1c0b314ae85/rmusic/U2FsdGVkX1-D1djpJVrYl66GMJLa_eetN3oRFihWIRCXqPr0ZBNgUtfaMsrDGGI3NaXlHe2rIuSLiks6U7BLZ1fx12vQf3Wsg-LKfVVhwUI/161010feaf34ff5dea04a5ba258a9bb13deac6cd9d888223e212e95a1a87b3ac?track-id=43948857&play=false
-exte: https://s239myt.storage.yandex.net/get-mp3/064f75ae22188216ce21f53a1065abf2/0005a1c0bc3de39f/rmusic/U2FsdGVkX1-4E1cxZljEfjIkZDnNboBjhXTjIZ1ZaUlD8QckWo0G49DstZeYAp_y5Yn1C553amUKZrXE5m_JPAlCQ0d6T8WfoSuAD9Az1XY/526dc896ccc377c1bf73ec20b1b7cf602c168c7ed2265bcfbfcc68030e6a1704
+orig: https://s155iva.storage.yandex.net/get-mp3/f5d489d20838cd49f0c8ac92041f0349/0005a1c40e615b50/rmusic/U2FsdGVkX1_PFtALqjkagELXPilvnmmF66m_kQeAmy7i6jgy3V0rlva6MW1qA_RGCtJDaMOmP3ajwCdW_Un68RQaqtknlUwMVjpkbQQBkjQ/9f328580ee4ad6b2fad122ee090a2b29cee88abc554408f7f46af8955697c5e2?track-id=61795355&play=false
+exte: https://s155iva.storage.yandex.net/get-mp3/05bda87d1535ad7f388c4244e8599203/0005a1c40fe5ec4b/rmusic/U2FsdGVkX19ZHMJ8W8bumACjHWvUWOV78gHzLawxDNe__WZuP6zxWuYXohI7EMec7af24jLSwd9HkFDHF2ElYZOaEbeK8bZTWc9uLGaRBR8/564f631f812113182b1d59b890c240e3cbedb018ff588f695c6a9d0ad16ae0bb

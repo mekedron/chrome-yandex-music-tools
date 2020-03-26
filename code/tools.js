@@ -1,6 +1,6 @@
 function proxy(source, ...args) {
   if (typeof source === 'function') {
-    source = '(' + source.toString() + ')(' + args.join(',') + ');'
+    source = '(' + source.toString() + ')("' + args.join('","') + '");'
   }
   const j = document.createElement('script'),
     f = document.getElementsByTagName('script')[0];

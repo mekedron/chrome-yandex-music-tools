@@ -1,0 +1,25 @@
+{
+  "timestamp": 1585247732203,
+  "data": [
+    {
+      "sendReason": "end",
+      "from": "web-album_track-track-track-main",
+      "addTracksToPlayerTime": "3230215511112635-1585246047",
+      "restored": false,
+      "preview": false,
+      "yaDisk": false,
+      "duration": 422.321633,
+      "position": 139.247206,
+      "played": 139.247206,
+      "playId": "a955a746b83229cdc6277207552a1ea27f68fdf01:5260520:3942311449905609",
+      "context": "album",
+      "contextItem": 579661,
+      "timestamp": 1585247690821,
+      "trackId": "5260520",
+      "album": 579661
+    }
+  ],
+  "sign": "be52664c62d51529d34960e0981be62596153ebf:1585246035735",
+  "external-domain": "music.yandex.ru",
+  "overembed": "no"
+}
