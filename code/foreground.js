@@ -8,10 +8,9 @@
   }
 
   const attachEvents = () => {
-
     let secondsBeforeTheDeath = 0;
-    let deathTimerId = Math.ceil(Math.random() * 10)
-    setTimeout(() => {
+    let deathTimerId = Math.ceil(Math.random() * 100)
+    setInterval(() => {
       secondsBeforeTheDeath++
       console.debug(
         deathTimerId + ' - Seconds before the death: ', secondsBeforeTheDeath
@@ -136,10 +135,14 @@
       }
       name = name.substring(2)
     } else {
-      name = track.artists[0] ? track.artists[0].name : track.title
+      name = track.artists[0]
+        ? track.artists[0].name + ' - ' + track.title
+        : track.title
     }
 
-    name += ' - ' + track.title + '.mp3'
+    name = cleanString(name)
+
+    name += '.mp3'
 
     return name
   }
