@@ -29,12 +29,14 @@
   "content_scripts": [
     {
       "js": [
-        "code/tools.js",
         "code/foreground.js"
       ],
       "matches": [
-        "http://music.yandex.ru/*",
-        "https://music.yandex.ru/*"
+        "*://music.yandex.ru/*",
+        "*://music.yandex.com/*",
+        "*://music.yandex.by/*",
+        "*://music.yandex.kz/*",
+        "*://music.yandex.ua/*"
       ],
       "run_at": "document_idle"
     }
