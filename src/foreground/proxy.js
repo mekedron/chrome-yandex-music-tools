@@ -10,3 +10,4 @@ module.exports = function proxy (source, ...args) {
 
   return true;
 }
+
