@@ -1,4 +1,4 @@
-module.exports = function proxy (source, ...args) {
+export default (source, ...args) => {
   if (typeof source === 'function') {
     source = '(' + source.toString() + ')("' + args.join('","') + '");'
   }

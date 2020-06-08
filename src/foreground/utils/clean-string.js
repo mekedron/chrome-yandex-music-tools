@@ -1,4 +1,4 @@
-module.exports = function cleanString (str) {
+export default function (str) {
   str = str.replace(/\'/gi, '')
   str = str.replace(/\<em\>/gi, '')
   str = str.replace(/\<\/em\>/gi, '')

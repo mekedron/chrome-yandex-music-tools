@@ -31,6 +31,8 @@
     "webpack-cli": "^3.3.11"
   },
   "dependencies": {
-    "md5": "^2.2.1"
+    "browser-id3-writer": "^4.4.0",
+    "md5": "^2.2.1",
+    "streamsaver": "^2.0.4"
   }
 }
