@@ -79,7 +79,7 @@ const onDlButtonClick = (event) => {
 }
 
 const downloadTrack = async (meta, isHQRequested) => {
-  if (!meta || !meta.track || !meta.track.storageDir) {
+  if (!meta || !meta.track || !meta.track) {
     log('Wrong meta has been received')
     return
   }
