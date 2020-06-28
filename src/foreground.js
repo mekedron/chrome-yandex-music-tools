@@ -141,7 +141,12 @@ const requestCSRF = callback => {
 
 const log = (message, ...args) => {
   console.error(message, args)
-  alert('Что-то пошло не так :0')
+  alert(
+    'Что-то пошло не так :0\n' +
+    'Пожалуйста, свяжитесь со мной через вкладку ' +
+    '"Поддержка" на странице расширения и ошибка будет исправлена ' +
+    'в самые кротайшие сроки!'
+  )
 }
 
 const injectPlayerDlButton = () => {
